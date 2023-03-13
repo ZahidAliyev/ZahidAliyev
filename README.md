@@ -2,8 +2,6 @@
 <h3 align="center">Web developer with year of experience in developing web-based applications incorporating a range of technologies and with a 1-year background as an IT specialist.</h3>
 
 - 📫 How to reach me **aliyev.zahid@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zahidal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zahidal" height="30" width="40" /></a>
 </p>
