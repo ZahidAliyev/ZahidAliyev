@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zahid Aliyev</h1>
-<h3 align="center">Web developer with more than 6 months of experience in developing web-based applications incorporating a range of technologies and with a 1-year background as an IT specialist.</h3>
+<h3 align="center">Web developer with year of experience in developing web-based applications incorporating a range of technologies and with a 1-year background as an IT specialist.</h3>
 
 - 📫 How to reach me **aliyev.zahid@outlook.com**
 
